@@ -1,0 +1,21 @@
+contacts:
+wechat team
+file transfer
+
+loop_interval:
+1800
+
+which_python:
+/path_to/bin/python
+
+abs_path:
+/path_to/WechatGrab/
+
+SENDER_USERNAME:
+example@qq.com
+
+SENDER_PASSWORD:
+12345678
+
+RECEIVER:
+example@gmail.com
